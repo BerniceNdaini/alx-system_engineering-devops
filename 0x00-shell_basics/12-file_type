@@ -1,2 +1,2 @@
 #!/bin/bash
-file -f /tmpp/iamafile
+file -f iamafile
