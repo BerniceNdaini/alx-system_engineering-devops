@@ -8,3 +8,4 @@
 6-mkdir
 7-mv
 8-rm
+9-rm -r
