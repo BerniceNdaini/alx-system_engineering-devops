@@ -4,5 +4,7 @@
 2-cd
 3-ls -l
 4-ls -a
-ls -a -n
-mkdir
+5-ls -a -n
+6-mkdir
+7-mv
+8-rm
