@@ -4,3 +4,4 @@
 2-cd
 3-ls -l
 4-ls -a
+ls -n
